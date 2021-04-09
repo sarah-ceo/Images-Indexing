@@ -24,11 +24,11 @@ You can also run the files individually:
 
 When we try to find the two closest neighbors, we get one error on the train folder images and one error on the test folder images:
 
-![](/out/test-train.png)
-![](/out/test-test.png)
+![](/out/test_train.png)
+![](/out/test_test.png)
 
 
 We tried classifiying some images with our NuSVC classifiers, and got one error on the test folder images (camera identified as butterfly):
 
-![](/out/classificateur-train.png)
-![](/out/classificateur-test.png)
+![](/out/classificateur_train.png)
+![](/out/classificateur_test.png)
